@@ -1,4 +1,4 @@
-# fork-me
+# Learn to fork-me
 Yeah, right. FORK ME!!!
 
 So, do you want to learn how to fork a repo? You can. 
